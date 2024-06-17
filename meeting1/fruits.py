@@ -16,6 +16,8 @@ fruits = [
     "lemon",
 ]
 
+
+
 # for fruit in fruits:
 #     print(f"Fruit {fruit}: {len(fruit)}" )
 
@@ -30,8 +32,16 @@ fruits = [
 # # while "$" not in word:
 #     word = input("Insert a word: ")
 
-while True:
-    word = input("Insert a word: ")
-    if word == "$":
-        break
-print("Bye")
+# while True:
+#     word = input("Insert a word: ")
+#     if word == "$":
+#         break
+# print("Bye")
+
+# for fruit in fruits:
+#     count = 0
+#     for char in "aeiou":
+#        count += fruit.count(char)
+#     if count > 2:
+#         print(fruit)
+
