@@ -3,6 +3,8 @@ import os
 # dirs: Prints out sub-directories from the root.
 # files: Prints out all files from root and directories.
 
+
+
 # iterate over files in
 # that directory
 directory = "/Users/valeria/src/intel/intel-basic-python-jun-24/meeting2"
