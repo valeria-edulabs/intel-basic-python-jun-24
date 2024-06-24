@@ -9,7 +9,11 @@ def calc_control_digit(digits: str):
         # total += sum(divmod(w * int(d), 10))
     return (10 - (total % 10)) % 10
 
-control_dig = calc_control_digit("11111111")
-print(control_dig)
+def my_foo():
+    print("foo")
+
+print("**************************")
+# control_dig = calc_control_digit("11111111")
+# print(control_dig)
 # def calc_control_digit(digits: list[int]):
 #     pass
