@@ -1,5 +1,7 @@
 from pprint import pprint
 
+
+
 filepath = "/Users/valeria/src/intel/intel-basic-python-jun-24/meeting2/data/AAPL.csv"
 prices = []
 with open(filepath) as f:
