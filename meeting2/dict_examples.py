@@ -117,3 +117,10 @@ new_stocks = {
 }
 
 print(111111111 in new_persons)
+
+
+eq = {
+    'eq1': [
+
+    ]
+}
